@@ -1,0 +1,19 @@
+{
+  "raw_rows": 541909,
+  "raw_duplicate_rows": 5268,
+  "raw_missing_descriptions": 1454,
+  "raw_missing_customer_ids": 135080,
+  "raw_negative_quantities": 10624,
+  "raw_zero_quantities": 0,
+  "raw_negative_prices": 2,
+  "raw_zero_prices": 2515,
+  "rows_with_malformed_required_fields": 0,
+  "duplicate_rows_removed": 5268,
+  "negative_price_rows_removed": 2,
+  "cleaned_general_rows": 536639,
+  "customer_ready_rows": 392692,
+  "unknown_customer_rows": 135035,
+  "unknown_product_rows": 1454,
+  "return_or_cancellation_rows": 10587,
+  "zero_price_rows_retained": 2510
+}
