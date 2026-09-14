@@ -44,41 +44,7 @@ python task_1_data_cleaning.py
 The program reads the original UCI Online Retail workbook and creates the
 cleaned files in the output folders.
 
-## How to upload this to GitHub
 
-1. Sign in to GitHub.
-2. Create a new repository using the repository name required by CodSoft.
-   If the email does not specify a different name, use the format
-   `CODSOFT_TASKSNO` and replace `NO` with the required task number.
-3. Open the new repository.
-4. Select **Add file → Upload files**.
-5. Upload the contents of this folder, including the README, Python file, and
-   reports folder.
-6. Click **Commit changes**.
-7. Copy the repository URL. This is the link you will later paste into the
-   CodSoft task submission form.
-
-Do not upload passwords, GitHub tokens, or other private information.
-
-## LinkedIn video checklist
-
-Record a short screen video showing:
-
-1. The GitHub repository and README
-2. The Python cleaning file
-3. The data-quality report
-4. The final result counts:
-   - 541,909 original rows
-   - 5,268 duplicate rows removed
-   - 536,639 cleaned rows
-
-Add the GitHub repository link to the LinkedIn post and include:
-
-`#codsoft #internship #dataanalytics`
-
-## Suggested LinkedIn caption
-
-> Completed Task 1 of my CodSoft Data Analytics Internship: Data Cleaning and
 > Preprocessing using Python and Pandas. I inspected missing values, duplicate
 > records, inconsistent data, data types, returns, and invalid prices, then
 > created a cleaned dataset for further analysis.
