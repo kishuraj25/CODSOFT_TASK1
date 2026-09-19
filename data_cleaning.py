@@ -126,6 +126,10 @@ for column in text_columns:
     cleaned_df[column] = cleaned_df[column].astype("string").str.strip()
 
 
+# Clean customer names
+cleaned_df["full_name"] = cleaned_df["full_name"].str.title()
+
+
 # ------------------------------------------
 # 5.3 Standardize Country
 # ------------------------------------------
